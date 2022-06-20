@@ -1,4 +1,4 @@
-# Spark NLP For Healthcare NER
+# Spark NLP For Healthcare - Named Entity Recognition (NER)
 
 This repo contains tutorials and codes regarding an implementation of NER module in spark-nlp-for-healthcare-NER
 
