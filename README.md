@@ -1,4 +1,4 @@
-# spark-nlp-for-healthcare-NER
+# Spark NLP For Healthcare NER
 
 This repo contains tutorials and codes regarding an implementation of NER module in spark-nlp-for-healthcare-NER
 
